@@ -1,7 +1,7 @@
 package bestprofit;
 
 /**
- *
+ * https://www.geeksforgeeks.org/best-time-to-buy-and-sell-stock/
  */
 public class BestProfit {
 
